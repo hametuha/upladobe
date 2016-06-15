@@ -10,7 +10,7 @@ if ( ! upladobe_available() ) {
 	add_action( 'admin_notices', function () {
 		printf(
 			'<div class="error"><p><strong>Upladobe: </strong>%s</p></div>',
-			__( 'You should install <a href="http://php.net/manual/book.imagick.ph">ImageMagick extension</a>.', 'upladobe' )
+			__( 'You should install <a href="http://php.net/manual/book.imagick.php">ImageMagick extension</a>.', 'upladobe' )
 		);
 	} );
 
