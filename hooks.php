@@ -4,6 +4,7 @@
  * 
  * @package upladobe
  */
+defined( 'ABSPATH' ) || die( 'Do not load directly.' );
 
 // If Imagick is not installed, return.
 if ( ! upladobe_available() ) {

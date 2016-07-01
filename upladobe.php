@@ -6,7 +6,8 @@ Version: 1.0.0
 Plugin URI: https://github.com/hametuha/upladboe
 Author: Takahashi_Fumiki
 Author URI: https://hametuha.co.jp
-License: GPLv3
+License: GPLv3 or later
+License URI: http://www.gnu.org/licenses/gpl-3.0.html
 Text Domain: upladobe
 Domain Path: /languages
 */
